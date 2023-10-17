@@ -6,7 +6,8 @@
 - 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,express" />
+    <h1>My Skills</h1>
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,node,express,mongodb,tailwind" />
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>

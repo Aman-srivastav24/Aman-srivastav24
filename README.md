@@ -6,7 +6,7 @@
 - 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,express" />
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>

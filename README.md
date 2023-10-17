@@ -1,10 +1,10 @@
 <h1 align="center">Hello World!! I'm Aman Srivastav</h1>
 
-👋 Hi ...
-👀 I’m interested in FullStack Web Development
-🌱 I’m currently learning NextJs
-💞️ I’m looking to collaborate on MERN Projects
-📫 How to reach me email : amansrivastav606@gmail.com
+- 👋 Hi ...
+- 👀 I’m interested in FullStack Web Development
+- 🌱 I’m currently learning NextJs
+- 💞️ I’m looking to collaborate on MERN Projects
+- 📫 How to reach me email : amansrivastav606@gmail.com
 <p align="center">
   <a href="https://skillicons.dev">
     <h1>My Skills</h1>

@@ -1,13 +1,12 @@
 <h1 align="center">Hello World!! I'm Aman Srivastav</h1>
 
-
-
-- 🌱 I’m currently learning **Next js**
+- 🌱 I'm a FullStack Developer (MERN).
+- 🌱 Now, I’m currently learning **Next js**
 - 
 <p align="center">
   <a href="https://skillicons.dev">
     <h1>My Skills</h1>
-    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,node,express,mongodb,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,nodejs,express,mongodb,tailwind,appwrite,github" />
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>

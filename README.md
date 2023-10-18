@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!! I'm Aman Srivastav</h1>
 
-- 👋 Hi ...
+- 👋 Hi, I'm using Logic 
 - 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on MERN Projects

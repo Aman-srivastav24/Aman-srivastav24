@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <h1>My Skills</h1>
-    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,nodejs,express,mongodb,tailwind,appwrite,github" />
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,nodejs,express,mongodb,tailwind,appwrite,github,mysql,python" />
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
